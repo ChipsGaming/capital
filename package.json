@@ -1,0 +1,16 @@
+{
+	"name": "capital",
+	"version": "0.0.1",
+	"scripts": {
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"mocha": "^4.0",
+		"sinon": "^4.0"
+	},
+	"dependencies": {
+		"command-line-args": "^5.0.2",
+		"discord.js": "^11.4.0",
+		"short-uuid": "^3.0.0"
+	}
+}
